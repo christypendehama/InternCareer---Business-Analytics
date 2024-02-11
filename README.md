@@ -9,4 +9,4 @@ Task 2: Developed predictive models for business forecasting.
 Derived key insights from data analysis.
 Presented outcomes to stakeholders.
 Enhanced skills in predictive analytics.
-Developed a PowerPoing presentation for stakeholders.
+Developed a PowerPoint presentation for stakeholders.
